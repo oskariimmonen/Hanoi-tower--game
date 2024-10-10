@@ -1,0 +1,30 @@
+--class-path
+'C:/Users/Sami/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/Sami/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/Sami/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/Sami/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar'
+--module-path
+'D:/TUNI/Ohjelmointi3/ryhmötyö/Sisu/target/classes;C:/Users/Sami/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/Sami/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar;C:/Users/Sami/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar;C:/Users/Sami/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar;C:/Users/Sami/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/Sami/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/Sami/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/Sami/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar'
+--patch-module
+fi.tuni.prog3.sisu='D:/TUNI/Ohjelmointi3/ryhmötyö/Sisu/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'D:/TUNI/Ohjelmointi3/ryhmötyö/Sisu/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/TUNI/Ohjelmointi3/ryhmötyö/Sisu/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Sisu 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/TUNI/Ohjelmointi3/ryhmötyö/Sisu/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Sisu 1.0 API'
